@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/a3dib/Bajar_list.git/static/css/main.5d6cff59.css",
+    "main.js": "/a3dib/Bajar_list.git/static/js/main.6c67673a.js",
+    "static/js/453.a50becb7.chunk.js": "/a3dib/Bajar_list.git/static/js/453.a50becb7.chunk.js",
+    "index.html": "/a3dib/Bajar_list.git/index.html",
+    "main.5d6cff59.css.map": "/a3dib/Bajar_list.git/static/css/main.5d6cff59.css.map",
+    "main.6c67673a.js.map": "/a3dib/Bajar_list.git/static/js/main.6c67673a.js.map",
+    "453.a50becb7.chunk.js.map": "/a3dib/Bajar_list.git/static/js/453.a50becb7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d6cff59.css",
+    "static/js/main.6c67673a.js"
+  ]
+}
